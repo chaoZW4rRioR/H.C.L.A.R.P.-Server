@@ -18,6 +18,7 @@ H.C.L.A.R.P.
 - DayZ-Expansion-Bundle
 - DayZ-Expansion-Licensed
 - MuchStuffPack
+- Solar Panel Power System
 - AdditionalMedicSupplies
 - Modular Vest System - Reworked
 - SNAFU Weapons
@@ -38,7 +39,6 @@ H.C.L.A.R.P.
 - Notes
 - GarbageSearch
 - CatchRain
-- Leaning_Nerf
 - SkyZ - Skybox Overhaul
 - GoreZ
 - DayZ Editor Loader
